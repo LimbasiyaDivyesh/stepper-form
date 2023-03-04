@@ -1,0 +1,6 @@
+.card {
+    width: 60%;
+    min-width: 275px;
+    max-height: 80%;
+    overflow: auto !important;
+}

@@ -1,0 +1,4 @@
+.buttons {
+    flex-direction: row !important;
+    gap: 20px;
+}

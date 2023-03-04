@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: Poppins, serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100vh;
+}
+
+#root {
+  height: 100vh;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 1px;
+  opacity: 0;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  opacity: 0;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  opacity: 0  ;
+}
